@@ -1,0 +1,42 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2636
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red249\green249\blue249;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\cssrgb\c98039\c98039\c98039;\cssrgb\c0\c0\c0;}
+{\*\listtable{\list\listtemplateid1\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid1\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid1}
+{\list\listtemplateid2\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\*\levelmarker \{disc\}}{\leveltext\leveltemplateid101\'01\uc0\u8226 ;}{\levelnumbers;}\fi-360\li720\lin720 }{\listname ;}\listid2}}
+{\*\listoverridetable{\listoverride\listid1\listoverridecount0\ls1}{\listoverride\listid2\listoverridecount0\ls2}}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720\sa400\partightenfactor0
+
+\f0\fs32 \cf0 \cb2 \expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Dear [insert name of recipient],\'a0\cb1 \
+\cb2 I received the sample dataset from the Data Engineering team and I\'92ve been analyzing the sample on behalf of the Data Science team.\'a0\cb1 \
+\cb2 I found the following insights as part of the analysis:\'a0\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls1\ilvl0\cf0 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Fruit & vegetables are the 2 most frequently bought product categories\'a0\cb1 \
+\ls1\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Non-members are the most frequent buyers within the store\'a0\cb1 \
+\ls1\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Cash is the most frequently used payment method\'a0\cb1 \
+\ls1\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 11am is the busiest hour with regards to number of transactions\'a0\cb1 \
+\pard\pardeftab720\sa400\partightenfactor0
+\cf0 \cb2 As a reminder, the client indicated that they wanted to know the following: \'93How to better stock the items that they sell.\'94\'a0\cb1 \
+\cb2 With respect to this business question, my recommendations are as follows:\'a0\cb1 \
+\pard\tx220\tx720\pardeftab720\li720\fi-720\partightenfactor0
+\ls2\ilvl0\cf0 \cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 This is a very broad statement and in order to tackle this with better accuracy, we need to identify a specific problem statement that the business would like to solve. For example, can we predict the demand of products on an hourly basis in order to procure products more intelligently?\'a0\cb1 \
+\ls2\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 We need more data. The current sample only covers 7 days and 1 store.\'a0\cb1 \
+\ls2\ilvl0\cb2 \kerning1\expnd0\expndtw0 \outl0\strokewidth0 {\listtext	\uc0\u8226 	}\expnd0\expndtw0\kerning0
+\outl0\strokewidth0 \strokec3 Based on the problem statement that we move forward with, we will need more datasets to help describe the outcome that we\'92re trying to model. For example, if we\'92re modeling demand for products, we may want to include information about stock levels or weather conditions.\'a0\cb1 \
+\pard\pardeftab720\sa400\partightenfactor0
+\cf0 \cb2 Best regards,\'a0\cb1 \
+\cb2 [name of sender]\cb1 \
+\pard\pardeftab720\partightenfactor0
+\cf0 \
+\
+\
+}
